@@ -1,0 +1,19 @@
+{
+  "name": "phonegap-plugin-systemvolume",
+  "version": "1.0.0",
+  "description": "Plugin to set volume of the music stream.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmbuthia/phonegap-plugin-systemvolume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmbuthia/phonegap-plugin-systemvolume/issues"
+  },
+  "homepage": "https://github.com/fmbuthia/phonegap-plugin-systemvolume#readme"
+}
